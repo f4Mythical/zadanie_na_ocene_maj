@@ -1,1 +1,4 @@
 Nazwa: ____ (do ustalenia)
+
+Aplikacja łączy mapę lokalizacji z prostym systemem mini-gier, punktów i profilu użytkownika.
+Jej celem jest umożliwienie przeglądania miejsc na mapie, dodawania ich do ulubionych oraz zdobywania punktów poprzez rozgrywanie krótkich gier. Wszystko działa w trybie offline, a dane zapisywane są lokalnie na urządzeniu.
