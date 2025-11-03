@@ -24,3 +24,15 @@ Profil użytkownika – ekran z informacjami o liczbie punktów, pozostałych pr
 Reset dzienny – przy pierwszym uruchomieniu aplikacji danego dnia limit gier automatycznie wraca do 5.
 
 Tryb offline – aplikacja nie wymaga połączenia z Internetem, wszystkie dane są przechowywane w lokalnej bazie danych.
+
+Wymagane elementy techniczne:
+
+Android Studio (język Kotlin lub Java)
+
+Baza danych lokalna (Room/SQLite)
+
+OpenStreetMap lub OSMDroid do wyświetlania mapy
+
+System zapisu danych użytkownika (login, punkty, ulubione, limit gier)
+
+Prosty interfejs z menu: Mapa, Gra, Ulubione, Profil
