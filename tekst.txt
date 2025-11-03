@@ -2,3 +2,25 @@ Nazwa: ____ (do ustalenia)
 
 Aplikacja łączy mapę lokalizacji z prostym systemem mini-gier, punktów i profilu użytkownika.
 Jej celem jest umożliwienie przeglądania miejsc na mapie, dodawania ich do ulubionych oraz zdobywania punktów poprzez rozgrywanie krótkich gier. Wszystko działa w trybie offline, a dane zapisywane są lokalnie na urządzeniu.
+
+Główne funkcje aplikacji:
+
+Mapa lokalizacji – wyświetla mapę z możliwością przesuwania i powiększania. Użytkownik może wybierać i dodawać miejsca do ulubionych.
+
+Ulubione miejsca – zapis wybranych lokalizacji w pamięci urządzenia; można je przeglądać lub usuwać.
+
+Mini-gry – krótkie gry (np. quiz, memory, klikajka), które pozwalają zdobywać punkty.
+
+System punktów – punkty są nagrodą za wygrane gry i mogą być wykorzystane do kupna dodatkowych prób.
+
+Limit gier dziennie – użytkownik może rozegrać maksymalnie 5 gier dziennie; limit resetuje się automatycznie każdego dnia.
+
+Sklep – za zdobyte punkty można kupić dodatkowe próby gry ponad dzienny limit.
+
+System logowania – lokalne konto użytkownika (login i hasło) pozwala na zapisywanie postępów, punktów i ulubionych miejsc.
+
+Profil użytkownika – ekran z informacjami o liczbie punktów, pozostałych próbach gry i historii aktywności.
+
+Reset dzienny – przy pierwszym uruchomieniu aplikacji danego dnia limit gier automatycznie wraca do 5.
+
+Tryb offline – aplikacja nie wymaga połączenia z Internetem, wszystkie dane są przechowywane w lokalnej bazie danych.
